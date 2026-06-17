@@ -1,8 +1,9 @@
 # Certificate of Compromise
 > SoK Paper on Offensive Operations against Active Directory Certificate Service
----
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20731506.svg)](https://doi.org/10.5281/zenodo.20731506)
+
+---
 
 ## v0.1.0
 
