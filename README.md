@@ -2,6 +2,8 @@
 > SoK Paper on Offensive Operations against Active Directory Certificate Service
 ---
 
+https://doi.org/10.5281/zenodo.20731506
+
 ## v0.1.0
 
 ## Living Document & Community Contributions
