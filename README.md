@@ -16,7 +16,7 @@ patch status entries revised, detection guidance corrected where better signal e
 Version history is tracked in the repository.
 
 If you find an error — technical, factual, or typographical — please report it. Mistakes
-in a paper of this scope are inevitable; silent ones are the problem. Open an issue or
+in a paper of this scope are inevitable. Open an issue or
 start a discussion.
 
 Pull requests for corrections are welcome. For direct correspondence, the contact email
