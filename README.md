@@ -25,3 +25,29 @@ is in the front matter of this paper, or reach out on X at [@thehackersbrain](ht
 ## arXiv
 
 This paper has also been submitted to arXiv cs.CR (pending endorsement). Established cs.CR authors willing to endorse can use this link: [https://arxiv.org/auth/endorse?x=E68XML](https://arxiv.org/auth/endorse?x=E68XML)
+
+---
+
+## 📄 Writings & Books
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://doi.org/10.5281/zenodo.20732733">
+        <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/zenodo.20732733.svg" />
+      </a>
+        <p><b><a href="https://github.com/thehackersbrain/certificate-of-compromise">Certificate of Compromise</a></b></p>
+        <p>SoK paper on offensive operations against Active Directory Certificate Services - ESC1-18, THEFT1-5, PERSIST/DPERSIST.</p>
+    </td>
+    <td align="center">
+      <a href="https://www.amazon.com/dp/B0GX2XW8M7">
+        <img src="https://github.com/thehackersbrain/thehackersbrain/blob/master/profile/cover.png" width="250" />
+      </a>
+        <p><b>Forged Trust: Offensive Operations against ADCS</b></p>
+        <p>The definitive offensive reference for ADCS. Forged Trust documents the complete ADCS attack taxonomy from first principles: ESC1 - ESC18, THEFT1 - THEFT5, PERSIST1 - PERSIST3, and DPERSIST1 - DPERSIST3.</p>
+        <p>Every technique is covered end to end - the misconfigurations root cause, prerequisites, exploitation, and detection artifacts - alongside the KB5014754 enforcement landscape.</p>
+    </td>
+  </tr>
+</table>
+
+---
